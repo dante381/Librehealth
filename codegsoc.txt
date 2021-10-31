@@ -1,0 +1,15 @@
+ MBHS(mobile helping babies survive) / DHIS2 tracker and trainer
+
+DHIS 2 - global public good transforming health information management around the world , developed by HISP(health information system programme)
+  -> DHIS2 has a modular, layered architecture with a strong and open application programming interface (API).
+  -> it stores information from various sources  , stored in dhis2 database and can be used to analyse the situation
+       (capture -> review -> analyse)
+  -> also has an offline feature , that is sending sms
+  -> can be used in less internet areas also
+
+
+
+  
+
+
+
