@@ -1,0 +1,35 @@
+LibreHealth (https://librehealth.io)
+
+LibreHealth is an umbrella organization(collaborative community) where multiple health information technology projects collaborate.
+
+The mission of LibreHealth is to help provide high quality medical care to all people, regardless of race, socioeconomic status, or geographic location, by providing medical practices
+ and clinics across the globe access to free of charge medical software. That same software is designed to save clinics both time and money, which gives practitioners more time to 
+spend with individual patients, thereby supplying patients with higher quality care.
+
+liber health organizations trending works(projects):
+1)liberhealth EHR application is a clinically focused electronic health record(EHR) systeem , which is easy to use and also customizable for use in a variety of health care settings
+2)liberhealth radiology : is an open source radilogy information system , it manages the clincal workflow of radiolgy department , using DECOM
+(DICOM is the international standard to transmit, store, retrieve, print, process, and display medical imaging information.)
+3)liberhealth toolkit : it is software that serves as an foundational API and laso is a data model for foundaational applications
+==>this toolkit has a powerful rest API and also web components that can be assembled by non developers to create health information systems that puts patient care in the forefront
+
+majorly , the technologies by the company are android , java , jjavascripy , python , php
+
+=====================================the title of the prject is developing an android application for new born clinical decision support ===============================================
+beofre we dive into the project , lets understand what ECEB is?
+->ECEB(essential care for every baby) is an educational an dtraining program , developed by american academy of pediatrics , provides knowledge, skills, and competencies 
+to nurses and doctors in low/middle-income settings so that they can provide life-saving care to newborns from birth through 24 hours postnatal(period after childbirth).
+
+->the aim of this project is to devlop an android mobile application , the ECEB digital action plan , that is purposel4y built to provide clicical decision-support for 
+nurses and doctors delivering essential newborn care interventions(actions) during first day of life
+
+->features of ECEB android application :
+ 1)Time-stamping(recording time and date) births to generate an essential newborn care clock for babies.
+ 2)ability to track multiple babies at a time
+ 3)automated classification of babies health status , based oin results from observations and assessments
+ 4)automated advice on managaement of babies , based on their classifcation
+ 5)reminders/alerts to provide recommended essesntial newborn care interventions
+ 6)if particular interventions are not delivered on time , then capture information regarding why this essential newborn care was late or missed
+=========================================================================================================================================================================================
+
+
