@@ -7,9 +7,11 @@ DHIS 2 - global public good transforming health information management around th
   -> also has an offline feature , that is sending sms
   -> can be used in less internet areas also
 
-
-
-  
-
-
-
+trainer app:(cordova(html,css,javascript) , xml , framework7(free and open source HTML mobile framework to develop hybrid mobile apps or web apps with iOS or Android) )
+   ->training for  neonatal resuscitation(Neonatal resuscitation is executed following the delivery of a baby to help the child begin to breathe. 
+       It can include measures such as clearing the baby’s airways, warming the baby, providing oxygen, intubating the baby), through videos, guide and 
+     other kinds of training material.
+   ->features:
+	1. offline support and sync facility (using sql)
+	2. uploading resources and sccessing
+	3. app usage tracking system (sql)
