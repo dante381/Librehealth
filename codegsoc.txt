@@ -18,4 +18,6 @@ trainer app:(cordova(html,css,javascript) , xml , framework7(free and open sourc
 	
 
 tracker app:(kotlin , java , python , shell(interactive command and scripting language) , hmtl ,gradle(to build softwares))
-  ->mHBS Tracker app is used to collect data  from the dhis2 mobile application
+  -> mHBS Tracker app is used to collect data  from the dhis2 mobile application
+  -> It tracks the health status of the baby in the early days of his birth.
+  -> App usage tracker, offline support
