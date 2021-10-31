@@ -15,3 +15,6 @@ trainer app:(cordova(html,css,javascript) , xml , framework7(free and open sourc
 	1. offline support and sync facility (using sql)
 	2. uploading resources and sccessing
 	3. app usage tracking system (sql)
+	
+
+tracker app:(kotlin , java , python , shell(interactive command and scripting language) , hmtl ,gradle(to build softwares))
